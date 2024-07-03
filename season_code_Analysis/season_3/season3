@@ -1,1 +1,7 @@
+## ETRI_2022 code 실험
+- nvidia/cuda:11.2.2-cudnn8-devel
 
+* subtask 1 : TOP 1 acc
+* subtask 2 : ACSA
+* subtask 3 : WKT
+* subtask 4 : WKT
